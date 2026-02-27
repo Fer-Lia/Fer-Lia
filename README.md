@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🌱 Hola, soy Lia  
+### FullStack Developer · España
 
-<!--
-**Fer-Lia/Fer-Lia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me dedico a construir aplicaciones web con cariño, detalle y muchas ganas de aprender. Disfruto tanto del frontend como del backend, y me encanta colaborar en proyectos que supongan un reto.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Stack Tecnológico
+
+- **Frontend:** HTML · CSS · JavaScript · React · Vue  
+- **Backend:** Python · Django  
+
+---
+
+## 📬 ¿Hablamos?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tuusuario)
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
