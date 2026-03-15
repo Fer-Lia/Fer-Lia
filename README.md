@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FF41&center=true&width=500&lines=Developer)](https://git.io/typing-svg)
-
-<br>
 
 ![Streak](https://streak-stats.demolab.com/?user=Fer-Lia&theme=tokyonight&hide_border=true&locale=es)
 
@@ -16,7 +12,7 @@
 
 <br>
 
-Soy **Lia**, desarrollador/a junior con base en España, apasionado/a por construir cosas que funcionen, se vean bien y aporten valor real. Llegué al mundo del código con mucha curiosidad y aún más ganas de crecer 🌱
+Soy **Lia**, desarrolladora junior con base en España, apasionada por construir cosas que funcionen, se vean bien y aporten valor real. Llegué al mundo del código con mucha curiosidad y aún más ganas de crecer 🌱
 
 <br>
 
