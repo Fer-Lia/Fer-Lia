@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hola,%20soy%20Leolo!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hola,%20soy%20Lia!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 <br>
 
-Soy **Leolo**, desarrollador/a junior con base en España, apasionado/a por construir cosas que funcionen, se vean bien y aporten valor real. Llegué al mundo del código con mucha curiosidad y aún más ganas de crecer 🌱
+Soy **Lia**, desarrollador/a junior con base en España, apasionado/a por construir cosas que funcionen, se vean bien y aporten valor real. Llegué al mundo del código con mucha curiosidad y aún más ganas de crecer 🌱
 
 <br>
 
