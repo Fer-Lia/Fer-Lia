@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&width=500&lines=Developer)](https://git.io/typing-svg)
 
-![Streak](https://streak-stats.demolab.com/?user=Fer-Lia&theme=tokyonight&hide_border=true&locale=es&card_width=400)
-
 *"El mejor momento para empezar fue ayer. El segundo mejor momento es ahora"*
 
 Soy **Lia**, desarrolladora junior con base en España, apasionada por construir cosas que funcionen, se vean bien y aporten valor real. Llegué al mundo del código con mucha curiosidad y aún más ganas de crecer 🌱
+
+![Streak](https://streak-stats.demolab.com/?user=Fer-Lia&theme=tokyonight&hide_border=true&locale=es&card_width=400)
 
 ## 💻 Stack Tecnológico
 
